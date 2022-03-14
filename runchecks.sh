@@ -52,7 +52,7 @@ OUTPUT+=$'\n```\n'
 
 OUTPUT=$'**CLANG-FORMAT WARNINGS**:\n'
 OUTPUT+=$'\n```\n'
-OUTPUT+="$PAYLOAD_FORMAT"eCTF20/mb/drm_audio_fw/src on
+OUTPUT+="$PAYLOAD_FORMAT"
 OUTPUT+=$'\n```\n'
 
 OUTPUT+=$'\n**CPPCHECK WARNINGS**:\n'
